@@ -8,4 +8,4 @@ python3 ./xmltojson.py test.xml
 
 
 Send in XML
-python3 ./xmltojson.py \<xml\>\<test\>1\<\/test\>\<\/xml\>
+python3 ./xmltojson.py \<xml\>\<test\>1\</test\>\</xml\>
