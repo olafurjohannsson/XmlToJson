@@ -1,5 +1,5 @@
 # XmlToJson
-Python script to convert XML to JSON
+Python script to convert XML to JSON, uses the very nice XmlToDict library https://github.com/martinblech/xmltodict 
 
 Supports straight XML and also file
 
